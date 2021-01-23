@@ -1,9 +1,10 @@
 ### Hi there 👋
+I am here to improve both my soft and hard skills. 👩🏻‍💻
 <br/>
 <img src="https://komarev.com/ghpvc/?username=nejatian&color=D8BFD8&style=flat">
 
 <br/>
-I am here to improve both my soft and hard skills. 👩🏻‍💻
+
 
 <!--
 **nejatian/Nejatian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
