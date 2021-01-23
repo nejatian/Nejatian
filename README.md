@@ -1,4 +1,7 @@
 ### Hi there 👋
+<br/>
+![](https://komarev.com/ghpvc/?username=nejatian)
+<br/>
 I am here to improve both my soft and hard skills. 👩🏻‍💻
 
 <!--
