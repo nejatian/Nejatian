@@ -5,8 +5,11 @@ I am here to improve both my soft and hard skills. 👩🏻‍💻
 
 <br/>
 You can also find me:
+<br/>
 <a href="https://instagram.com/snejatians">
-  <img alt="Instagram" src="https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+<a href ="https://twitter.com/persianschatzi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
 
 
