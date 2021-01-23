@@ -4,6 +4,8 @@ I am here to improve both my soft and hard skills. 👩🏻‍💻
 <img src="https://komarev.com/ghpvc/?username=nejatian&color=D8BFD8&style=flat">
 
 <br/>
+You can also find me:
+<img alt="Instagram" src="https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 
 <!--
