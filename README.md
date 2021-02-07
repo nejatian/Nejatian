@@ -1,7 +1,5 @@
 ### Hi there 👋
 I am here to improve both my soft and hard skills. 👩🏻‍💻
-<br/>
-<img src="https://komarev.com/ghpvc/?username=nejatian&color=D8BFD8&style=flat">
 
 <br/>
 You can also find me:
@@ -15,6 +13,10 @@ You can also find me:
   </a>
   <a href="https://t.me/nejatians">	<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  
+  <br/>
+<img src="https://komarev.com/ghpvc/?username=nejatian&color=D8BFD8&style=flat">
+
 
 
 <!--
