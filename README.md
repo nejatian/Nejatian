@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am here to improve both my soft and hard skills. 👩🏻‍💻
+I am here to improve both my soft and hard skills! 👩🏻‍💻
 
 <br/>
 You can also find me:
