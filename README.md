@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am here to improve both my soft and hard skills! 👩🏻‍💻
+#tech_savvy
 
 <br/>
 You can also find me:
