@@ -5,7 +5,7 @@ I am here to improve both my soft and hard skills! 👩🏻‍💻
 #tech_savvy #JAVY
 
 <br/>
-<br/>
+
 📫 How to reach me:
 
 <br/>
