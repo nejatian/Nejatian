@@ -4,7 +4,7 @@ I am here to improve both my soft and hard skills! 👩🏻‍💻
 
 
 
-📫 How to reach me:
+
 
 <br/>
 <a href="https://instagram.com/snejatians">
