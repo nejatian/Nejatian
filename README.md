@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am here to improve both my soft and hard skills! 👩🏻‍💻
 <br/>
-<br/>
+
 
 
 <a href="https://instagram.com/snejatians">
