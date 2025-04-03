@@ -2,7 +2,7 @@
 I'm Sarvenaz, a passionate software developer on a mission to turn my love for coding into incredible software. 💻 By day, I work as a Operation's Backend Engineer at Rebuy, where I tackle exciting challenges and build amazing software. When the day's work is done, I continue my coding adventures, exploring the ever-evolving world of technology.
 <br/>
 
-📫 You can reach me at nejatian@outlook.com or connect with me on linked social medias bellow. I'm excited to meet fellow developers, share knowledge, and create some amazing code together. Here's to building the future one line of code at a time! 🌈🚀"
+📫 You can reach me at nejatian@outlook.com or connect with me on linked social medias bellow. I'm excited to meet fellow developers, share knowledge, and create some amazing code together. Here's to building the future one line of code at a time! 🌈🚀
 
 
 <a href="https://instagram.com/snejatians">
